@@ -1,0 +1,27 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Django SQLite database
+db.sqlite3
+
+# Django static files
+/static/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# macOS Finder files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Docker files
+docker-compose.override.yml
+
+# Node.js modules (if using Node.js)
+node_modules/
